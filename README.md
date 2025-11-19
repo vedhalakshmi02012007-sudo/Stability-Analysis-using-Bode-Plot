@@ -10,6 +10,7 @@ Computer with MATLAB software
 
 ![WhatsApp Image 2025-11-16 at 14 10 59_217c8ece](https://github.com/user-attachments/assets/2b2e017e-76ff-4824-b200-0f5b7361b37e)
 
+<img width="1080" height="1421" alt="image" src="https://github.com/user-attachments/assets/5775c85d-9937-41a3-9beb-c11e97dd8120" />
 
 ## Procedure:
 	Open MATLAB software
@@ -41,10 +42,9 @@ end
 <img width="1711" height="1007" alt="image" src="https://github.com/user-attachments/assets/d925d36b-6707-4801-b689-6e57d54714e9" />
 
 ## Result:
-Thus the bode plot for the given transfer function was drawn and verified using MATLAB. <br>
-
-Gain margin = 6.7082 (16.5330 dB)<br>
-Phase Margin = 16.2940 deg <br>
-Gain crossover frequency =  0.8710 rad/s <br>
-Phase crossover frequency = 4.4721 rad/s <br>
-The system is  stable
+Thus the bode plot for the given transfer function was drawn and verified using MATLAB.<br>
+Gain margin = 12<br>
+Phase Margin = 60<br>
+Gain crossover frequency = 0.907<br>
+Phase crossover frequency = 4.4721<br>
+The system is stable.<br>
